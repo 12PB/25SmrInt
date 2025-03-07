@@ -1,0 +1,821 @@
+variable_name,variable_description,module_name,module_description,data_type,unique_id
+m1a_q02,Sex,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q03,Relationship to Head,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q04,Date of Birth,Modul_1A_householdroster, Module 1A - Household Roster,Continuous,hhid
+m1a_q05y,Age - Years,Modul_1A_householdroster, Module 1A - Household Roster,Continuous,hhid
+m1a_q05m,Age - Months,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q06,Marital Status,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q07,Spouse/Partner lives in this household,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q08,Spouse/Partner Code,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q09,Months away from the Household,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q10,Household present,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q11,Natural mother lives in household,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q12,Mother ID,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q13,Mother educational level,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q14,Mother still alive,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q15,Mother age at death,Modul_1A_householdroster, Module 1A - Household Roster,Continuous,hhid
+m1a_q16,Mother age,Modul_1A_householdroster, Module 1A - Household Roster,Continuous,hhid
+m1a_q17,Natural father lives in household,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q18,Father ID,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q19,Father educational level,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q20,Father still alive,Modul_1A_householdroster, Module 1A - Household Roster,Discrete,hhid
+m1a_q21,Father age at death,Modul_1A_householdroster, Module 1A - Household Roster,Continuous,hhid
+m1a_q22,Father age,Modul_1A_householdroster, Module 1A - Household Roster,Continuous,hhid
+m1b_sex,Sex,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_age,Age,Modul_1B_householdroster, Module 1B - Household Roster,Continuous,hhid
+m1b_q01,Ethnic group,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q02,Religion,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q4b,Second language,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q03,Maternal language,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q4a,First language,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5a,English,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5b,Italian,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5c,Greek,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5d,Macedonian,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5e,French,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5f,German,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m1b_q5g,Other,Modul_1B_householdroster, Module 1B - Household Roster,Discrete,hhid
+m2a_sex,Sex,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_age,Age,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q0a,Respondend Id,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q01,Currently attending preschool,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q02,Reason not attending,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q03,Type of preschool,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q04,Hours per week attending preschool,Modul_2A_education, Module 2A- Education,Continuous,id
+m2a_q05,Amount per month,Modul_2A_education, Module 2A- Education,Continuous,id
+m2a_q06,Paid in cash or in kind,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q07,Amount paid,Modul_2A_education, Module 2A- Education,Continuous,id
+m2a_q08,Paid in services,Modul_2A_education, Module 2A- Education,Discrete,id
+m2a_q09,Number of hours,Modul_2A_education, Module 2A- Education,Continuous,id
+m1a_q02,Sex,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q0a,Respondent ID,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q01,Ability to read newspaper,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q02,Ability to write letter,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q03,School attendance,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q04,Highest grade completed-Level,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q05,Highest grade completed-Grade,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q06,Highest diploma attained,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q07,Years of preschool,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q08,Enrollment in thisacademic year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q09,Currently attending school,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q10,Reason for currently not attending school,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q11,Reason for not enrolling in school this year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q12,Grade currently enrolled - Level,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q13,Grade currently enrolled - Grade,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q14,Enroll in past academic year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q15,Attend school in past academic year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q16,Reason for not attending school in past academic year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q17,Reason for not enrolling school in past academic year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q18,Age at last year of full time education,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q19,Older than 19 years,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q20,Intend to return to school,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q21,Grade enrolled in past academic year: Level,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q22,Grade enrolled in past academic year: Grade,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q23,Private or public school,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q24,School distance,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q25,Stay in closer location during school,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q26,Time away from school - Hours,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q27,Time away from school - Minutes,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q28,Mean of transport,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q29,Cost of transport,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q30,Receivement of transportation subsidy,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q31,Value of transportation subsidy,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q32,Buy suplementar text books during this academic year,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q33,Cost of past academic year - School fees and tuition,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q34,Cost of past academic year - Uniforms,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q35,Cost of past academic year - Authorized text books,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q36,Cost of past academic year - Suplementary text books,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q37,Cost of past academic year - Other educational materials,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q38,Cost of past academic year - Meals and/or lodging,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q39,Cost of past academic year - School excursions,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q40,Cost of past academic year - Other,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q41,Cost of past academic year - Total,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q42,Location of purchasing textbooks,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q43,Source had complete required list,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q44,Time to find all required books,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q45,Heard of textbook subsidies,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q46,Reclaim textbook subsidy,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q47,Value of subsidy,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q48,Time to take the subsidy,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q49,Subsidy received,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q50,Private tutoring,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q51,Amount of subjects tutored,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q52,Main tutor,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q53,Periodicity of receiving tutoring,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q54,Paying for tutoring,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q55,Amount of payment per hour,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q56,Amount of payment on avarage per month,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q57,Cash or in-kind,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q58,Cash or in-kind amount,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q59,Service,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q60,Service - Hours,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q61,Absent from school in past 4 weeks,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q62,Number of days absent,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q63,Reason for absence,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q64,Receiving a scholarship,Modul_2B_education, Module 2B - Education,Discrete,id
+m2b_q65,Value of cholarship,Modul_2B_education, Module 2B - Education,Continuous,id
+m2b_q66,Average hours per day on homework for the last 4 weeks,Modul_2B_education, Module 2B - Education,Discrete,id
+m2c_sex,Sex,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q5,Age - Years,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q02,Respondent Id,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q03,How often have you read with child,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q04,How often have you helped with homework,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q05,Importance of educational qualifications,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q06,Like to go to college or university,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q07,Likely to follow education,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q08,Overall satisfaction with school,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q9a,Reason for disatisfaction,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q9b,Reason for disatisfaction 2,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q9c,Reason for disatisfaction 3,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q10a,Activity to spend hipothetical money,Modul_2C_education, Module 2C - Education,Discrete,id
+m2c_q10b,Activity to spend hipothetical money,Modul_2C_education, Module 2C - Education,Discrete,id
+m3b_q5,Age,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Continuous,id
+m3b_sex,Sex,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3b_q08,Anyone in HH with mobile phone,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3b_q09,Primary user of phone,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3b_q10,Time of acquintance,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Continuous,id
+m3b_q11,Company providing the service,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3b_q12,Purpose of usage of phone,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3b_q13,Use prepaid cards,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3b_q14,Cost of last month,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Continuous,id
+m3b_q15,Person who paid the cost,Modul_3_Communication_Mobile_Phones_1, Module 3 - Communication (Mobile),Discrete,id
+m3_sex,Sex,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3a_q5,Age,Modul_3_internet, Module 3 - Internet,Continuous,hhid
+m3_q01,Used computer in last 3 months,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q02,Used interned in last 3 months,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q03,Frequency of internet usage in last 3 months,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q04,Time of continous use of internet,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q05,Email adress,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q6a,Reason for using internet - main reason,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q6b,Reason for using internet - second reason,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q6c,Reason for using internet - third reason,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q6d,Reason for using internet - fourth reason,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_1,Sending/receiving e-mails,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_2,Telephoning over the Internet/ videoconferencing,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_3,"Use of chat sites,other communication purpose etc (social network)",Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_4,"Finding information online (radio, TV, Newspaper, magazines)",Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_5,"Downloading software, games, images or music",Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_6,"Searching services online (travelling, hotels, etc)",Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_7,"For electronic services (looking/ taking information for health…, aplications)",Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_8,Internet banking,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q07_9,Looking information or selling goods and services,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q7_10,"Looking information for education purpose (schools, university)",Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q7_11,Online trainning,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q7_12,Other (specify)___________,Modul_3_internet, Module 3 - Internet,Discrete,hhid
+m3_q08,Cost of using internet last month,Modul_3_internet, Module 3 - Internet,Continuous,hhid
+m4a_q01,Id respondent,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q02,Work for someone who is not a member of the household,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q03,Work on a farm owned or rented by person or other family members,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q04,Work on own account in an enterprise belonging to person or family members,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q06,Occasional job,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q07,Permanent/Long term job,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q08,Reason for not working,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q09,Tried to find job in past 4 weeks,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q10,Main reason for not searching a job,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q11,Status began 12 months ago,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q12,Efforts in finding a job,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q13a,Time looking for a job - Years,Modul_4A_labor, Module 4A - Labor,Continuous,id
+m4a_q13,Time for looking for a job,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q14,Willing to start in 2 weeks if offered a job,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q15,Registered in labour office,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4a_q16,Status began 12 months ago,Modul_4A_labor, Module 4A - Labor,Discrete,id
+m4b_q01,Occupation in main job,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q02,Main economic activity of enterprise,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q03,Location of job,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q04,Carry out most of the job,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q05,Hours of work during the last week,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q06,Average hours of work per week,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q07,Reason for working less than 40 hours,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q08,You were in the job,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q09,Employer,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q10,Social security scheme,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q11,Last net payment,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q12,Time unit of payment,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q13,Usual net payment,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q14,Time unit for usual net payment,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q15,Bonus last 12 months,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q16,Value of last bonus,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q17,Periodicity of bonuses,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q18,Other forms of payment,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q19,Value of those payments,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q20a,Job start time - Month,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q20b,Job start time - Year,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q21,Other job or activity,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q22,Second job,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q23,Main activity,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q24,You were in the job,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q25,Last net payment,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q26,Time unit of last net payment,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q27,Usual net payment,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m4b_q28,Time period,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q29,Other forms of payment,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q30,Value of other forms of payment,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q31,Is month of start job after June 2011,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q32,At least one job in the non agricultural sector,Modul_4B_labor, Module 4B - Labor,Discrete,id
+m4b_q33,Non farm enterprise activity,Modul_4B_labor, Module 4B - Labor,Discrete,id
+isco_08primaryjob,ISCO_08 primary job,Modul_4B_labor, Module 4B - Labor,Continuous,id
+isco_08secjob,ISCO_08 sec job,Modul_4B_labor, Module 4B - Labor,Continuous,id
+nace_rev1_primaryjob,NACE_Rev1_primary job,Modul_4B_labor, Module 4B - Labor,Continuous,id
+nace_rev1_secjob,NACE_Rev1_sec job,Modul_4B_labor, Module 4B - Labor,Continuous,id
+m5_q03,Anyone operates a shop/store/bar/restaurant,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q04,Anyone operates a trading business,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q05,Anyone operates a shop or business,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q06,Drive a taxi or offer trucking services,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q07,Proffesional office/services,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q08,Process/sell from agriculture activities,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q09,Other small business,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q10,HH in agricultural business shut down,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q11,Main economic activity,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q12,Owner ID,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q13,Manager,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q14,Months of operation,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q15,Location of business,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q16a,Years of existence,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q16b,Months of existence,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q17,Main source of start-up capital,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q18,Business operate during past month,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q19,Reason for not in operation,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q20,HH members engaged in this business,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q21,Employees not part of the family,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q22,Average hours of work for non family employees,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q23,Total sales last month,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24a,Business cost last month: Salaries,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24b,Business cost last month:Purchase of goods,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24c,"Business cost last month:Taxes, insurance",Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24d,"Business cost last month:Rent, electricity",Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24e,"Business cost last month:Transport, fuel",Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24f,Business cost last month:raw materials,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q24g,Business cost last month:Other equipment,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q25,Past month,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Discrete,psu-hh
+m5_q26,Profit of past month,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m5_q27,Lost past month,Modul_5_Non-Farm_Enterprises, Module 5 - Non-Farm Enterprises,Continuous,psu-hh
+m6a_q01,Lived elsewhere,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Discrete,id
+m6a_q02,District/State came from,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Discrete,id
+m6a_q04,Municipality/Commune,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Continuous,id
+m6a_q06,Year,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Continuous,id
+m6a_q07,Reason for moving,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Discrete,id
+m6a_q08,Where was living in 1990: District/State,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Discrete,id
+m6a_q10,Where was living in 1990: Municipality/Commune,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Continuous,id
+m6a_q12,Ku ka lindur : District/State,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Discrete,id
+m6a_q14,Ku ka lindur: Municipality/Commune,Modul_6A_Internal_Migration_of_household_Members, Module 6A - Internal Migration of Household Members,Continuous,id
+m6b_q01,Migrate abroat for at least 3 months,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q02m,Month of migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q02y,Year of migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Continuous,id
+m6b_q04y,Years away in last migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q04m,Months away in last migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q05,Country of last migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q06,Reason of migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q07,Reason to migrate to country,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q08,Work during lart migration episode,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q09,Job prearanged,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q10,Main occupation during last migration episode,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q12,Provider of information,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q13,Source of founding in this migration episode,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q14,Spouse living abroad too,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q15,Spouse/Partner albanian,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q16,Any children living abroad too,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q17a,Month of return,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q17b,Year of return,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Continuous,id
+m6b_q18,Reason of return to Albania,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q19,Planning to migrate within next year,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q20,Country,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q21,Migrate abroad after 15 years,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q22a,Month of first migration after turning 15,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q22b,Year of first migration after turning 15,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Continuous,id
+m6b_q24y,Years away in first migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q24m,Months away in first migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q25,Country,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q27,Reason of first migration,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q28,Reason for choosing country,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q29,Work,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q30,Job prearanged,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q31,Main occupation,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q33,Provider of information,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q34,Main source of founding,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q35,Spouse/Partner living abroad too,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q36,Children living abroad too,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q37,Reason for return,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q38,Other migrations,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_q39,Acquire legal residency,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c1,Country of migration in 2001,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d1,Duration of migration in 2001,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c2,Country of migration in 2002,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d2,Duration of migration in 2002,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c3,Country of migration in 2003,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d3,Duration of migration in 2003,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c4,Country of migration in 2004,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d4,Duration of migration in 2004,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c5,Country of migration in 2005,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d5,Duration of migration in 2005,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c6,Country of migration in 2006,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d6,Duration of migration in 2006,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c7,Country of migration in 2007,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d7,Duration of migration in 2007,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c8,Country of migration in 2008,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d8,Duration of migration in 2008,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c9,Country of migration in 2009,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d9,Duration of migration in 2009,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c10,Country of migration in 2010,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d10,Duration of migration in 2010,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c11,Country of migration in 2011,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d11,Duration of migration in 2011,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_c12,Country of migration in 2012,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6b_d12,Duration of migration in 2012,Modul_6B_International_Migration_of_household_Members, Module 6B - Internal Migration of Household Members,Discrete,id
+m6c_q02,Age,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q03,Gender,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q04,Highest grade completed-Level,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q05,Highest grade completed-Grade,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q06,Country of degree,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8a,Language-English,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8b,Language-Italian,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8c,Language-Greek,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8d,Language-Macedonian,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8e,Language-French,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8f,Language-German,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q8g,Language-Other,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q09,Year of leaving HH,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q10,Occupation when leave,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q11,Describe occupation,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q13,District,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q15,Commune,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q17,Year,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q18,Currently working,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q19,Current main occupation,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q21,Spouse/Partner abroad,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q22,Spouse/Partner albanian,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q23,Any children abroad too,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q24,How many children speak albanian,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q25,Remit to HH during this year,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q26a,Value of remittances,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q26b,Amount of remittances,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q27,Remit in kind,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q28a,Currency in kind,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q28b,Amount in kind,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q29,Money for own use,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q30,Purpose of money,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q31,Has ever migrated abroad,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q32,Year of last migration period,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q33,Months abroad,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q34,Country,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q36,Main occupation,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q37,Remit to HH,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q38a,Currency,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q38b,Amount,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6c_q39,Remit in kind,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q40a,Currency,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Discrete,id
+m6c_q40b,Amount,Modul_6C_Sons_and_Doughter_living_away, Module 6C - Sons and Daughters Living Away,Continuous,id
+m6d_q00,Type of shock,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m6d_q01,Received shock,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m6d_2008,Shock 2008,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m6d_2009,Shock 2009,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m6d_2010,Shock 2010,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m6d_2011,Shock 2011,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m6d_2012,Shock 2012,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+i,,Modul_6D_Shocks,to the household  Module 6D - Household Shocks,Discrete,psu-hh
+m7_q01,Satisfied,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q02,Feeling about financial situation,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q03,Feeling about future 12 months,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q04,Absolute minimal,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Continuous,id
+m7_q05,Current monthly HH income,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Continuous,id
+m7_q06,Current level of food consumption,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q07,Current level of expenditures,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q08,Concerned about basic necessities,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q09,Step you are today,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q9a,Step in 2008,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q10,Satisfied with current life,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q11,Life in past 3 years,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q12,Life in next 12 months,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q13,Concern,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m7_q14,Source of largest share of income in next 12 months,Modul_7_Subjective_Poverty, Module 7 - Subjective Poverty,Discrete,id
+m9a_q5,Age,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_sex,Sex,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q00,Respondetnt Id,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q01,Health condition,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q02,Compared to 1 year ago,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q03,Suffer from chronic illness,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q4a,Illness: months,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q4b,Illness: years,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q05,Diagnosted by proffesional,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q06,Illness,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q07,Disability,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8a,Difficulties in: Seeing,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8b,Difficulties in: Hearing,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8c,Difficulties in: Body deformation,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8d,"Difficulties in: Remembering, concentration",modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8e,Difficulties in: using limbs,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8f,Difficulties in: Communication,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q8g,Difficulties in: Other,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q09,Take medication,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q10,Days without activities,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q11,Sudden illness,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q12,Type of illness/injury,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q13,Days without activities (sudden illness),modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q14,Visit public ambulatory last month,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q15,Number of visits in last month,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q16,Satisfied with the care,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q17,Reason for unsatifaction,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q18,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q19,Extra payment/gifts,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q20,Extra payment was requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q21,Medicines prescibed,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q22,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q23,Discount on medicines,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q24,Payment for laboratory work,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q25,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q26,Visit a hospital,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q27,Number of visits last 4 weeks,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q28,Satisfied with care,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q29,Reason for unsatisfaction,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q30,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q31,Extra payment,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q32,Extra payment was requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q33,Medicines,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q34,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q35,Discount on medicines,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q36,Payment for laboratory work,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q37,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q38,Visit private doctor,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q39,Number of visits in last 4 weeks,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q40,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q41,Extra payment,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q42,Extra payment was requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q43,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q44,Payment for laboratory,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q45,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q46,Visit private nurse/paramedic,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q47,Number of visits,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q48,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q49,Extra payment,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q50,Extra payment was requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q51,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q52,Payment for laboratory,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q53,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q54,Visit popular doctor/alternative medicine,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q55,Number of visits,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q56,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q57,Amount extra payment or gift,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q58,Extra payment was requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q59,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q60,Payment for laboratory,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q61,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q62,Medicine without prescription,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q63,Cost of medicine without prescription,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q64,Hospital stay last 12 months,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q65,Times of hospitalization,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q66,Days spend in hospital,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q67,Nearest hospital,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q68,Satisfied with care received,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q69,Reason for unsatisfaction,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q70,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q71,Extra payment,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q72,Extra payment was requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q73,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q74,Payment for laboratory,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q75,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q76,Payment during hospital stay,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q77,Visit dentist,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q78,Number of visits,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q79,Payment total,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q80,Extra payment,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q81,Extra payment requested/voluntary,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q82,Payment for medicines,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q83,Payment for laboratory,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q84,Payment for transport,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q85,Health license,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q86,Status of license,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q88,Tried cigarette,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q89,Age at first smoke,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q90,Smoke currently,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q91,Number of cigarettes last 24 hours,modul_9A_health, Module 9A - Health,Continuous,id
+m9a_q92,Number of smoking days,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q92a,Number of smoking days,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q93,Drink alcohool,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q94,Age at first drink,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q95,Days with at least one drink,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q95a,Number of days 1-9,modul_9A_health, Module 9A - Health,Discrete,id
+m9a_q96,Number of drinks on a typical drinking day,modul_9A_health, Module 9A - Health,Continuous,id
+m9b_q00,Respondent ID,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q01,Difficulty to pay for health,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q02,Method to raise money to pay health care,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+q02_a,Borrow money to pay for health care,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+q02_b,Sell farm animal to pay for health care,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+q02_c,Sell products to pay for health care,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+q02_d,Sell Valuebles to pay for health care,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+q02_e,Other Method to pay for health care,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q03,Times HH Member has been ill but delayed seeking help,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q04,Reason for delaying help,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q05,Times HH member been referred to hospital but not gone,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q06,Reason for not going to Hospital,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q07,Anyone ever refuse health services,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q08,Reason of refusal,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q09,Members entitled to purchase medicines with discount,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m9b_q10,Right exercise when medicine needed,Modul_9B_Access_to_Health_Care, Module 9B - Access to Health Care,Discrete,psu-hh
+m0_q00,PSU,Modul_10_Fertility, Module 10 - Fertility,Continuous,psu-hh
+m0_q01,Household No,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q01,Any woman in the HH given birth to a child,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q02,Id code of mother,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q4a,Child in the hh,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q04,Child's ID,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q05,Day of birth of child,Modul_10_Fertility, Module 10 - Fertility,Continuous,psu-hh
+m10_q5m,Month of birth,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q5y,Year of birth,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q06,Prenatal consulations,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q07,Reason for no prenatal consultations,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q08,Number of consultations,Modul_10_Fertility, Module 10 - Fertility,Continuous,psu-hh
+m10_q09,Period of first prenatal visit,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q10a,Specialist of consultations:First,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q10b,Specialist of consultations:Second,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q11a,Assistant at birth:First,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q11b,Assistant at birth:Second,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q12,Place of birth,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q13a,Weight at birth-Kg,Modul_10_Fertility, Module 10 - Fertility,Continuous,psu-hh
+m10_q13b,Weight at birth-Gr,Modul_10_Fertility, Module 10 - Fertility,Continuous,psu-hh
+m10_q14,Breastfeed,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q15,Currently breastfeeding,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q16,Months of breastfeeding,Modul_10_Fertility, Module 10 - Fertility,Continuous,psu-hh
+m10_q17,Month of exclusive breastfeeding,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m10_q18,Gave birth in last 3 years,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+i,,Modul_10_Fertility, Module 10 - Fertility,Discrete,psu-hh
+m12_q00,Code,Modul_12A_Purchases_past30_days, Module 12A - Purchases in Past 30 Days,Discrete,psu-hh
+m12_q01,Description,Modul_12A_Purchases_past30_days, Module 12A - Purchases in Past 30 Days,Discrete,psu-hh
+m12_q02,Buy items,Modul_12A_Purchases_past30_days, Module 12A - Purchases in Past 30 Days,Discrete,psu-hh
+m12_q03,Money spend,Modul_12A_Purchases_past30_days, Module 12A - Purchases in Past 30 Days,Continuous,psu-hh
+m12b_q00,Code,Modul_12B_Purchases_past6_months, Module 12B - Purchases Past 6 Months,Discrete,psu-hh
+m12b_q01,Description,Modul_12B_Purchases_past6_months, Module 12B - Purchases Past 6 Months,Discrete,psu-hh
+m12_q02,Bought item,Modul_12B_Purchases_past6_months, Module 12B - Purchases Past 6 Months,Discrete,psu-hh
+m12_q03,Money spend,Modul_12B_Purchases_past6_months, Module 12B - Purchases Past 6 Months,Continuous,psu-hh
+m12c_q00,Code,Modul_12C_Purchases_past12_months, Module 12C - Purchases Past 12 Months,Discrete,psu-hh
+m12c_q01,Description,Modul_12C_Purchases_past12_months, Module 12C - Purchases Past 12 Months,Discrete,psu-hh
+m12c_q02,Bought item,Modul_12C_Purchases_past12_months, Module 12C - Purchases Past 12 Months,Discrete,psu-hh
+m12c_q03,Money spend,Modul_12C_Purchases_past12_months, Module 12C - Purchases Past 12 Months,Continuous,psu-hh
+m13a_q01,Dwelling type,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q1a,Lift in the building,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q02,Major construction material of exterior,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q03,Outside apperance of building,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q04,Condition of dwelling unit,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q05,Time of construction,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q05a,Year of construction,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q06,Years lived in this dwelling,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q07,Area of dwelling,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q08,Number of rooms occupied,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q09,Number of rooms for business,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q10,Type of toilet,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q11a,Separate kitchen,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q11b,Separate Bath/Shower,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q11c,Balkony or terrace,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q11d,Pantry,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q11e,Attic,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q11f,Garage,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12a,Dwelling too small,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12b,Dwelling too dark,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12c,Inadequate heating,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12d,Leaking roof,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12e,"Damp walls, floor or basement",Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12f,Windows/ doors in bad confition,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12g,Pollution from industry or traffic,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12h,Problem with neigbours,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12i,Noisy from the road,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q12j,Problem of crime  in the area,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q13a,Distance from nearest primary school,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q13b,Distance from nearest ambulatory/doctor,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q13c,Distance from nearest bus/minibus stop,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q14,Ownership of this dwelling,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q15,Monthly rent,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q16,Pay maintenance fees,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q17,Monthly payment for the building,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q18,Buy/build and inhabit after 1 Jan 2011,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q18a,Potential monthly rent,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q19m,Start inhabit-Month,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q19y,Start inhabit-Year,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q20,Origin of building,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q21a,Portion done by family,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q21b,Portion done by others,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q22,Pay in total for the dwelling,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13a_q23,Percentage of total from remittances,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q24,Renovate/Imptove,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+m13a_q25,Percentage of renovation came from remittances,Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Discrete,psu-hh
+filter_$,psu =656 (FILTER),Modul_13A_Description_of_Dwelling, Module 13A - Dwelling,Continuous,psu-hh
+m13b_q01,Main source of water supply,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q02,Continous water,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q03,Average hours of water per day,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q04,Reason public system not source of water,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q05,Quality of main source of water,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q06,Water source used for drinking,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q07,Regularly boil water,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q08,Closest spring or well,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q09,Closest public tap,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q10,Dwelling has water storage tank,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q10a1,Average water expense per month in winter,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q10a2,Average water expense per month in summer,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q11,Source of heating,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q11a,Main type of heating,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q12,Purposes of electricity,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_a,Use of electricity for Lighting,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_b,Use of electricity for Heating,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_c,Use of electricity for Cooling,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_d,Use of electricity for Air Conditioning,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_e,Use of electricity for Cooking,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_f,Use of electricity for Water Heating,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_g,Use of electricity for Other Electric Appliances,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_h,"Use of electricity for None, Dwelling Have no Connection To Public Electricity System",Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_m12_i,Other,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q13,Own electricity meter,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q14,Families connected to the meter,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q15,Frequency of interupted electricity,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q16,Average hours per day cut electricity,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q17,Compared to last year electricity has,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q18,Consumption of electricity,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q19,Contract with KESH,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q20,Paid bill in past 12 months,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q21,Amount of money paid for bill,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q22,Number of months covered,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q23,Any electricity arrears,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q24,Total amount of arrears,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q25,How old are arrears,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q26,Reason dwelling not connected to electricity,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q27,Main alternative energy source,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q28,Use gas,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q29a,Use of gas for lighting,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q29b,Use of gas for heating,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q29c,Use of gas for cooking,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q29d,Use of gas for other appliances,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q30,Average cost of gas,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31a_1,Use of firewood,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31a_2,Use of firewood,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31b_1,Use of coal,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31b_2,Use of coal,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31c_1,Use of oil/kerosene,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31c_2,Use of oil/kerosene,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31d_1,Use of diesel/fuel,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31d_2,Use of diesel/fuel,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31e_1,Other use,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q31e_2,Other use,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q32,HH has a phone line,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q33,Pay for a telephone inside dwelling,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q34,Amount of last payment,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q35,Months covered,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q36,Own a computer or pc,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q37,Computer has internet connection,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q38,Company providing internet,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q38a,Type of internet,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q39,Satisfied with quality,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q40,Pay for this connection,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13b_q41,Amount of payment last month,Modul_13B_Utilities, Module 13B - Utilities,Continuous,psu-hh
+m13b_q42,Costs as a financial burden,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+gas_for_light,,Modul_13B_Utilities, Module 13B - Utilities,Discrete,psu-hh
+m13c1_q1b,Code,Modul_13C1_Household_Durables, Module 13C1 - Household Durables,Discrete,psu-hh
+m13c1_q1a,Desctiption,Modul_13C1_Household_Durables, Module 13C1 - Household Durables,Discrete,psu-hh
+m13c1_q1c,Number of items,Modul_13C1_Household_Durables, Module 13C1 - Household Durables,Discrete,psu-hh
+m13c1_q1ca,Reason for not having item,Modul_13C1_Household_Durables, Module 13C1 - Household Durables,Discrete,psu-hh
+m13c_q03,code,Modul_13C2_Household_Durables, Module 13C2- Household Durables,Discrete,psu-hh
+m13c_q04,Years of acquirement,Modul_13C2_Household_Durables, Module 13C2- Household Durables,Continuous,psu-hh
+m13c_q05,Origin of item,Modul_13C2_Household_Durables, Module 13C2- Household Durables,Discrete,psu-hh
+m13c_q06,Sell price,Modul_13C2_Household_Durables, Module 13C2- Household Durables,Continuous,psu-hh
+id_source,,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q00,Source,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q01,Applied to source,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q02,Received payment,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q03,Number of members received payment,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q04,First member,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q05m,Month start receive,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q05y,Year start receive,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q06,Amount received,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q07,Months,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q08,Owed any payment,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q09,Amount of arrears owned,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q10,Old arrears,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q12,Second member,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q11,Income from source,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q13m,Month start receiving,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q13y,Year start receiving,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q14,Amount at last payment,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q15,Months,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q16,Owed any payment,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q17,Amount owed,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q18,Old arrears,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q19,Receive income from this source,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q20,Third member,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q21m,Month start receive,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m14_q21y,Year start receive,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q22,Amount in last payment,Modul_14_Social_Protection, Module 14 - Social Protection,Continuous,psu-hh
+m14_q23,Number of months,Modul_14_Social_Protection, Module 14 - Social Protection,Discrete,psu-hh
+m15_q01,Income source,Modul_15_Other_Income, Module 15 - Other Income,Discrete,psu-hh
+m15_q02,Receive payment,Modul_15_Other_Income, Module 15 - Other Income,Discrete,psu-hh
+m15_q03,Amount received,Modul_15_Other_Income, Module 15 - Other Income,Continuous,psu-hh
+m16a_q01a,Activities: Cinema,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q01b,Activities: Live,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q01c,Activities: Cultural sites,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q01d,Activities: Social networks,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q01e,Activities: Sports,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q02,Read newspapers,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+filter_$,M16A_Q04A = 2 (FILTER),Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q04,Number of books,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q04a,Books at home,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q03,Read a book,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q04b,Number of books,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q05a,Periodicity of: get together relatives,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q05b,Periodicity of: contact relatives,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q05c,Periodicity of: get together with friends,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q05d,Periodicity of: contact friends,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q06,Number of close friends,Modul_16A_Social_Participation, Module 16A - Social Participation,Continuous,id
+m16a_q07a,Borrow relatives,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q07b,Borrow friend,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q07c,Borrow neighbor,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q08a,Statement A,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q08b,Statement B,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q09,Statement 9,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q10,Eat with other people,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q10a,Number of times,Modul_16A_Social_Participation, Module 16A - Social Participation,Continuous,id
+m16a_q11a,Was any of these: A,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q11b,Was any of these:B,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q11c,Was any of these:C,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16a_q11d,Was any of these:D,Modul_16A_Social_Participation, Module 16A - Social Participation,Discrete,id
+m16b_q01a,Farmer/Fisherman Association,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01b,Irrigation related association,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01c,Traders or Business association,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01d,"Professional Assosiation(doctors,Teachers)",Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01e,Trade unions,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01f,Neighbourhood /Village council of dignitares,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01g,Religious or spiritual groups,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01h,Political group or movement,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01i,Cultural association,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01j,Association for environment protection,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01k,Association for Water suppl,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01l,Association for the consumers protection,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01m,Sports groups,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01n,Youth groups,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01o,NGO,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01p,Etthic-based community group,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01q,Veterans association,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01r,Voluntary groups,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q01s,Other groups(specify),Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q02a,Most important,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q02b,Second,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q02c,Third,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q03a,Most members same religion,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q03b,Most members same gender,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q03c,Most members same ethnicity,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q04a,Same occupation,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q04b,Same educational background,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q05,Interact with similar groups,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q06a,Trust local gov,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q06b,Trust central gov,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q07a,Contribute in time,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q07b,Contribute in money,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q08,Communal activities,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q09,Number of times,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q10,People willing to cooperate,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q11,No phone calls,Modul_16B_Social_Capital, Module 16B - Social Capital,Continuous,id
+m16b_q12a,First source of information,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q12b,Second source,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q12c,Third source,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q13,Differences,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q14,Cause problems,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q15a,First most important,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q15b,Second most important,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q16,Led to violence,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q17,Safe,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q18,Happiness,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q19,Power,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q20,Periodicity of getting together,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m16b_q21,Vote,Modul_16B_Social_Capital, Module 16B - Social Capital,Discrete,id
+m17_q01$01,HH owns any agricultural land,Modul_17_Identification_of_Agriculture_Hh_Q1-2, Module 17 - Identification of Agriculture HH Q1-2,Discrete,psu-hh
+m17_q02$01,Cultivate crops or harvest forest products,Modul_17_Identification_of_Agriculture_Hh_Q1-2, Module 17 - Identification of Agriculture HH Q1-2,Discrete,psu-hh
+m17_q03,Name of plot,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q04,Origin of land,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q05,Year become owner,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q06,Legal title and rights,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q07,Area of plot (square meters),Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Continuous,psu-hh
+m17_q08,Kind of land,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q9a,Main crop,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q9b,Second crop,Modul_17_Identification_of_Agriculture_Hh_Q3-9, Module 17 - Identification of Agriculture HH Q3-9,Discrete,psu-hh
+m17_q10$01,"Own any livestock, poultry or beehives",Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Discrete,psu-hh
+m17_q11a$01,Number of cows,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+m17_q11b$01,Number of pigs,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Discrete,psu-hh
+m17_q11c$01,Number of sheep/goats,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+m17_q11d$01,Number of poultry,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+m17_q11e$01,Number of horses,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+m17_q11f$01,"Number of donkeys, mules",Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Discrete,psu-hh
+m17_q11g$01,Number of oxen,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Discrete,psu-hh
+m17_q11h$01,Number of beehives,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+m17_q11i$01,Number of rabbits,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+m17_q11j$01,Number of fish,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Discrete,psu-hh
+m17_q11k$01,Other kind of animal,Modul_17_Identification_of_Agriculture_Hh_Q10-11, Module 17 - Identification of Agriculture HH Q10-11,Continuous,psu-hh
+prefecture,Prefecture,poverty, Poverty,Discrete,hhid
+urban,"Urban=1, rural=2",poverty, Poverty,Discrete,hhid
+region,Regions,poverty, Poverty,Discrete,hhid
+totcons,total consumption of hh,poverty, Poverty,Continuous,hhid
+rcons,real mean per capita consuption,poverty, Poverty,Continuous,hhid
+rfood,real food consumption per capita,poverty, Poverty,Continuous,hhid
+rtotnfood,real non food consumption per capita,poverty, Poverty,Continuous,hhid
+reduexppre,real education consumption per capita,poverty, Poverty,Continuous,hhid
+rdurcons,real durable per capita consumption,poverty, Poverty,Continuous,hhid
+rtotutil,real total utilities,poverty, Poverty,Continuous,hhid
+egap0,extreme poverty,poverty, Poverty,Discrete,hhid
+egap1,extreme poverty gap,poverty, Poverty,Continuous,hhid
+egap2,extreme poverty depth,poverty, Poverty,Continuous,hhid
+agap0,headcount poverty,poverty, Poverty,Discrete,hhid
+agap1,poverty gap,poverty, Poverty,Continuous,hhid
+agap2,poverty depth,poverty, Poverty,Continuous,hhid
+hh_key,,Weight_lsms2012_retro, Weights,Continuous,hh_key
+pesha10tetor,,Weight_lsms2012_retro, Weights,Continuous,hh_key
