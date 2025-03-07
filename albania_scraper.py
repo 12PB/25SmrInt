@@ -9,12 +9,9 @@ def id_label(var_list):
         id_flag = 0
 
     elif 'psu' in var_list and 'hh' in var_list:
-        id_flag = 1
+        id_flag = 0
         if 'id' in var_list or 'idcode' in var_list:
-            id_flag = 2
-        if 'hh_key' in var_list:
-            id_flag = 3
-        
+            id_flag = 1
     else:
         id_flag = -1
 
@@ -37,23 +34,32 @@ df["module_description"] = df["Data file"].apply(lambda x: (" ").join(x.split(" 
 df.drop(columns=["Data file"], inplace=True)
 main_df = df.copy() 
 
+#Edge case for module 6D with missing underscore
+main_df.loc[main_df["module_name"] == "Modul_6D_Shocks", ["module_name", "module_description"]] = ["Modul_6D_Shocks_to_the_household", "Module 6D - Household Shocks"]
+
 
 
 all_dics = []
 print("Extracting variable names, descriptions, and types...")
 for i in range(len(main_df)):
 #for i in range(1):
+#for i in range(17,18):
     print("Extracting from module {}...".format(main_df["module_name"][i]))
 
     #Extract information about each module from main_df
     module = main_df["module_name"][i] 
     module_description = main_df["module_description"][i]
 
-    #Edge case for module 17 onwards, url naming changed
-    if i + 1 > 30:
-        i += 1
-    #Navigate to data site for each module and capture it as beautifulsoup object 
-    module_url = URL + f"/F{i + 1}?file_name={module}"
+    #Edge case for module 6D with missing underscore
+    if module != "Modul_6D_Shocks_to_the_household":
+        #Edge case for module 17 onwards, url naming changed
+        if i + 1 > 30:
+            i += 1
+        #Navigate to data site for each module and capture it as beautifulsoup object 
+        module_url = URL + f"/F{i + 1}?file_name={module}"
+    else:
+        module_url = URL + f"/F{i + 1}?file_name=Modul_6D_Shocks%20%to%20the%20household"
+
     response = requests.get(module_url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -63,28 +69,32 @@ for i in range(len(main_df)):
     var_list = [] # Create a list to capture variables from module
 
     for var_id in var_ids:
-        list_of_dics.append({"variable_name": var_id.text.lower(), "variable_link": var_id["href"]})
-        var_list.append(var_id.text.lower())
+        #Handling edge cases for Module 10 with misnamed variable
+        if module == 'Modul_10_Fertility':
+            text = var_id.text.lower()
+            if text == 'm0_q00':
+                text = 'psu'
+            elif text == 'm0_q01':
+                text = 'hh'
+            
+            list_of_dics.append({"variable_name": text, "variable_link": var_id["href"]})
+            var_list.append(text)
 
-    #Handling edge cases for Module 10 with misnamed variable
-    if module == 'Modul_10_Fertility':
-        var_list = ['psu' if x == 'm0_q00' else x for x in var_list]
-        var_list = ['hh' if x == 'm0_q01' else x for x in var_list]
+        else:
+            list_of_dics.append({"variable_name": var_id.text.lower(), "variable_link": var_id["href"]})
+            var_list.append(var_id.text.lower())
 
+    
 
     """ 
     Create an id flag,
-    0 = household identifier 'hhid' present, proxy household 'psu','hh' present, individual id present
-    1 = proxy household id present, individual id absent
-    2 = 'hhid' absent, proxy household 'psu', 'hh' present, individual id present
-    3 = Mapping modules, only household ids present
-    """    
+    0 = household id present, individual id absent
+    1 = household identifier 'hhid' present or proxy household 'psu','hh' present, individual id present
+    """
     id_flag = id_label(var_list)
     id_mapping = {
         0: 'hhid',
-        1: 'psu-hh',
-        2: 'id',
-        3: 'hh_key'
+        1: 'id',
     }
     unique_id = id_mapping.get(int(id_flag))
     rem_id = []
@@ -125,5 +135,3 @@ for i in range(len(main_df)):
     all_dics += pruned_list_of_dics
 
 pd.DataFrame(all_dics).to_csv("output/albania_metadata.csv", index=False)
-
-
