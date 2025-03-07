@@ -11,4 +11,4 @@ Breakdown of data fields:
 - “module_description”: Description of the survey module.
 - “data_type”: Data type (numeric, categorical, free data entry i.e. string, etc).
 - “unique_id”: hhid/id for per-household data/ individual data [^1]
-[^1]: Unique identifier for each module was either individual idcode, household id 'hhid' or proxy household id 'psu' and 'hh', proxy and actual household id were both marked as hhid
+[^1]: Each household has a household id 'hhid', but it can also be identified using a combination of the "primary selection unit", 'psu' variable and "household no", 'hh' which map uniquely to the 6671 households in the study. All entries lacking hhid were given a hhid based on this mapping of hhid-psu+hh. When individual identifiers were present, the data was marked as per-individual data, and per-household otherwise.
